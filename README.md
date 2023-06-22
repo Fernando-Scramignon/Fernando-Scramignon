@@ -34,4 +34,12 @@
 [![Lang Card](https://github-readme-stats.vercel.app/api/top-langs?username=Fernando-Scramignon&theme=transparent&langs_count=2&card_width=500px&locale=pt-BR)](https://github.com/Fernando-Scramignon/github-readme-stats)
 
 <hr/>
+  
+<a href="https://www.linkedin.com/in/fernando-scramignon/">
+  
+  ![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+</a>
+
+
 
